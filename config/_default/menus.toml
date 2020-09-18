@@ -19,12 +19,12 @@
   weight = 30
 
 [[main]]
-  name = "Select publications"
+  name = "Publications"
   url = "#featured"
   weight = 40
 
 [[main]]
-  name = "Select grants and scholarships"
+  name = "Grants and scholarships"
   url = "#accomplishments"
   weight = 50
   
