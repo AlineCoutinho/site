@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Select grants and scholarships"
 subtitle = ""
 
 # Date format
@@ -17,6 +17,36 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "CAN$ 15,000.00"
+  organization_url = ""
+  title = "OGS Doctoral Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-08-01"
+  date_end = "2015-07-01"
+  description = ""
+
+[[item]]
+  organization = "$1,450.00 Euros"
+  organization_url = ""
+  title = "DAAD Travel Grant from the Berlin Summer School"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-06-01"
+  date_end = "2014-08-01"
+  description = ""
+  
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = ""
 
 [[item]]
   organization = "Coursera"
@@ -47,5 +77,14 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""
-
+  
+  [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
 +++
