@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "$1,450.00 Euros"
   organization_url = ""
-  title = "DAAD Travel Grant from the Berlin Summer School"
+  title = "DAAD Travel Grant from the Berlin Summer School in Social Sciences"
   url = ""
   certificate_url = ""
   date_start = "2014-06-01"
