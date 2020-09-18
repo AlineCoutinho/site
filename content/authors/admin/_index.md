@@ -48,6 +48,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.nl/citations?user=m1BQT7EAAAAJ&hl=en&oi=ao
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AlineSociology
@@ -65,7 +68,7 @@ social:
 
 Welcome to my website! I am a sociologist whose research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. My most recent
 research interests include an investigation of entrepreneurship building programs, and the emergence of the economic category of ‘entrepreneur’ in Brazil. I have
-previously research climate change governance in Canada and Australia, knowledge translation and mobilization, and political scandals. My work has been published in both 
+previously researched climate change governance in Canada and Australia, knowledge translation and mobilization, and political scandals. My work has been published in 
 English and Portuguese peer-reviewed journals.
 
 As an educator, my teaching philosophy builds on a hands-on approach to discuss theories and concepts, meaning that I continuously link class discussions to students’ 
