@@ -95,7 +95,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2008-01-01"
-  date_end = "2008-12-31"
+  date_end = "2008-12-01"
   description = ""
   
   [[item]]
@@ -105,16 +105,16 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2007-01-01"
-  date_end = "2007-12-31"
+  date_end = "2007-12-01"
   description = "
   
   [[item]]
-  organization = "R$ 300.00/month"
+  organization = "R$ 300.00 per month"
   organization_url = ""
   title = "CNPq Scientific Initiation Scholarship"
   url = ""
   certificate_url = ""
   date_start = "2005-01-01"
-  date_end = "2006-12-31"
+  date_end = "2006-12-01"
   description = ""
 +++
