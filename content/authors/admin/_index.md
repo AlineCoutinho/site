@@ -67,15 +67,15 @@ social:
 
 ---
 
-Welcome to my website! I am a sociologist whose research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. My most recent
-research interests include an investigation of entrepreneurship building programs, and the emergence of the economic category of ‘entrepreneur’ in Brazil. I have
-previously researched climate change governance in Canada and Australia, knowledge translation and mobilization, and political scandals. My work has been published in 
-English and Portuguese peer-reviewed journals.
+Welcome to my website! I am a sociologist whose research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. Recently, I've
+studied entrepreneurship building programs and the emergence of the economic category of ‘the entrepreneur’ in Brazil. I also have experience researching climate change
+governance in Canada and Australia, knowledge translation and mobilization, and political scandals. My work has been published in English and Portuguese peer-reviewed
+journals.
 
-As an educator, my teaching philosophy builds on a hands-on approach to discuss theories and concepts, meaning that I continuously link class discussions to students’ 
-lived experiences. I am a firm believer in the power of data and evidence-based discussions to make abstract reasoning grounded in reality. My courses include *Local and
-Global Economic Relations*, *Globalization: Sociological and Anthropological approaches*, *Sociology or work and organizations*, *Globalization and Environment*, *Economic
-Anthropology*, and *Contemporary Sociological Theory*.
+As an educator, my teaching philosophy builds on an approach that seeks to link class discussions of sociological theories and concepts to students’ lived experiences. I
+am a firm believer in the power of data and evidence-based arguments. As such, a considerable portion of my lectures and teaching materials is devoted to teach data
+interpretation and visualization. My courses include *Local and Global Economic Relations*, *Globalization: Sociological and Anthropological Approaches*, *Sociology of
+Work and Organizations*, *Globalization and Environment*, *Economic Anthropology*, and *Contemporary Sociological Theory*.
 
 I am passionate about the statistical language programming R, reproducible research, open-source philosophy, and inclusive knowledge community.
 
