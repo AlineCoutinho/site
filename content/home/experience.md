@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "University of Ottawa"
   company_url = ""
   location = "Ottawa, Canada"
-  date_start = "2013-08-01"
+  date_start = "2013-01-01"
   date_end = ""
   description = """
   Responsibilities include:
