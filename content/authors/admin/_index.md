@@ -25,6 +25,17 @@ role: Economic Sociologist. Researcher. Educator.
 organizations:
 - name: ""
   url: ""
+  
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/AlineSociology
+ - icon: github
+  icon_pack: fab
+  link: https://github.com/AlineCoutinho
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include economic sociology, organizational analysis, and inequality regimes.
