@@ -31,8 +31,8 @@ organizations:
 bio: My research interests include economic sociology, organizational analysis, and inequality regimes.
 
 interests:
-- Economic sociology
-- Organizational analysis
+- Economic Sociology
+- Organizational Analysis
 - Gender-Based Analysis (GBA+)
 
 education:
