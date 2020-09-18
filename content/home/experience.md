@@ -57,9 +57,9 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Literature review
-  * Document analysis/coding of material
-  * Data collection: surveys and interviews
-  * Data entry and management
+  * Data collection: surveys, interviews, document coding
+  * Data entry, wrangling, and management
+  * Data analysis
   """
 
 [[experience]]
