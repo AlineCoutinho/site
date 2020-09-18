@@ -106,10 +106,10 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2007-01-01"
   date_end = "2007-12-01"
-  description = "
+  description = ""
   
   [[item]]
-  organization = "R$ 300.00 per month"
+  organization = "R$ 300.00/ month"
   organization_url = ""
   title = "CNPq Scientific Initiation Scholarship"
   url = ""
