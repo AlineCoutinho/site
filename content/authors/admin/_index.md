@@ -32,7 +32,7 @@ bio: My research interests include economic sociology, organizational analysis, 
 interests:
 - Economic sociology
 - Organizational analysis
-- Gender-based Analysis (GBA+)
+- Gender-Based Analysis (GBA+)
 
 education:
   courses:
