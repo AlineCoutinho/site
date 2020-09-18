@@ -28,7 +28,7 @@ organizations:
   
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include economic sociology, organizational analysis, and inequality regimes.
+bio: My research interests include entrepreneurship development, organizational practices, and inequality regimes.
 
 interests:
 - Economic Sociology
