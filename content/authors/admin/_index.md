@@ -69,8 +69,8 @@ social:
 
 Welcome to my website! I am a sociologist whose research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. Recently, I've
 studied entrepreneurship building programs and the emergence of the economic category of ‘the entrepreneur’ in Brazil. I also have experience researching climate change
-governance in Canada and Australia, knowledge translation and mobilization, and political scandals. My work has been published in English and Portuguese peer-reviewed
-journals.
+governance in Canada and Australia, knowledge translation and mobilization, and political scandals. My work has been published in English and Portuguese language peer-
+reviewed journals.
 
 As an educator, my teaching philosophy builds on an approach that seeks to link class discussions of sociological theories and concepts to students’ lived experiences. I
 am a firm believer in the power of data and evidence-based arguments. As such, a considerable portion of my lectures and teaching materials is devoted to teach data
