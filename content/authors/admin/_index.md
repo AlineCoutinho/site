@@ -41,7 +41,7 @@ education:
   - course: MA in Sociology
     institution: Instituto Universitário de Pesquisas do Rio de Janeiro (IUPERJ), Brazil
   - course: BA in Political Science
-    institution: Universistade de Brasília (UnB), Brazil
+    institution: Universidade de Brasília (UnB), Brazil
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
