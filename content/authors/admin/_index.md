@@ -82,5 +82,5 @@ Work and Organizations*, *Globalization and Environment*, *Economic Anthropology
 
 I am passionate about the statistical language programming R, reproducible research, open-source philosophy, and inclusive knowledge community.
 
-Want to start a conversation with me? Ask me about my favourite hobbies: motorcycles, gardening, coding in R, independent movies, and walking dogs (especially whippets).
+Want to start a conversation with me? Ask me about my favourite hobbies: motorcycles, gardening, coding in R, universal literature, independent movies, and walking dogs (especially whippets).
 
