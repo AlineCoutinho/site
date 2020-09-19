@@ -69,6 +69,10 @@ date_format = "Jan 2006"
   location = "Samambaia, Federal District, Brazil"
   date_start = "2003-01-01"
   date_end = "2003-12-31"
-  description = """Conciliator and mediator between disputing parties in a Brazilian court of Law."""
+  description = """
+  Responsibilities include:
+  
+  * Conciliate and mediate disputing parties in a Brazilian court of law
+  """
  
 +++
