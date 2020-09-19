@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Mix-Methods Research"
+  name = "Mixed Methods Research"
   
 [[feature]]
   icon = "chart-line"
