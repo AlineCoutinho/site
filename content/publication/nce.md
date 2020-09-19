@@ -1,39 +1,38 @@
-+++ abstract = "One of the most hotly debated ideas in science studies is the claim that contemporary science is in the midst of a transformation. While
-‘transformationalist’ arguments and concepts vary, their core principle is that the norms, values and practices that have enforced the separation of science
-from society are being challenged by new expectations that scientists pursue closer connections with industry, government and/or civil society, and address
-research questions of immediate value to non-academic partners. While many major funding agencies have embraced this idea and now pressure scientists to enhance
-the ‘societal relevance’ of their work, the impact of these changes on scientific practices is still unclear. This paper reports findings from a comparative
-meso-level analysis of 14 large Canadian research networks funded by an agency with an explicit transformationalist mandate – the Networks of Centres of
-Excellence (NCE) programme. Documents and web communications from these 14 NCEs, as well as from the central programme administration office, are analysed and
-compared to key transformationalist concepts, such as Mode 2 science, post-normal science, the triple helix model, academic capitalism and strategic science. We 
-find that transformationalist ideas have a strong rhetorical presence across the 14 NCE projects and the central office, but that a great deal of inconsistency
-and confusion exists at the level of implementation and assessment of outcomes. Easily quantifiable outputs, such as the commercialization of research findings,
-are favoured over softer qualitative outcomes, such as public engagement and knowledge sharing. We conclude by arguing that the NCE programme is having an 
-observable impact on the rhetoric of science, but any resulting transformations in practice are incremental rather than radical."
++++
+abstract = "We examined the effect of item-specific and relational encoding instructions on false recognition in two experiments in which the DRM paradigm was
+used (Deese, 1959; Roediger & McDermott, 1995). Type of encoding (item-specific or relational) was manipulated between subjects in Experiment 1 and within
+subjects in Experiment 2. Decision-based explanations (e.g., the distinctiveness heuristic) predict reductions in false recognition in between-subjects designs,
+but not in within-subjects designs, because they are conceptualized as global shifts in decision criteria. Memory-based explanations predict reductions in false
+recognition in both designs, resulting from enhanced recollection of item-specific details. False recognition was reduced following item-specific encoding 
+instructions in both experiments, favoring a memory-based explanation. These results suggest that providing unique cues for the retrieval of individual studied
+items results in enhanced discrimination between those studied items and critical lures. Conversely, enhancing the similarity of studied items results in poor 
+discrimination among items within a particular list theme. These results are discussed in terms of the item-specific/relational framework (Hunt & McDaniel, 
+1993)."
 
-authors = ["Aline Coutinho", "Nathan Young"]
-date = "2017-02-01"
+authors = ["David P. McCabe", "alison", "Chuck L. Robertson", "Anderson D. Smith"]
+date = "2004-12-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "In *Prometheus: Critical Studies in Innovation*"
-publication_short = "Prometheus"
+publication = "In *Psychonomic Bulletin & Review*"
+publication_short = "PB&R"
 selected = false
-title = "Science transformed? A comparative analysis of ‘societal relevance’ rhetoric and practices in 14 Canadian Networks of Centres of Excellence"
+title = "Item-specific Processing Reduces False Memories"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "pdf/2004-false-memories.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "View Journal Article"
-url = "https://doi.org/10.1080/08109028.2017.1280936"
+url = "http://link.springer.com/article/10.3758/BF03196739"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
 caption = ""
+
 
 +++
