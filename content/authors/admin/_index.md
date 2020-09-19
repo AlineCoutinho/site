@@ -84,3 +84,4 @@ I am passionate about the statistical language programming R, reproducible resea
 
 Want to start a conversation with me? Ask me about my favourite hobbies: motorcycles, gardening, coding in R, universal literature, independent movies, and walking dogs (especially whippets).
 
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
