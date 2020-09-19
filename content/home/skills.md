@@ -17,27 +17,27 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Research"
+  name = "Mix-Methods Research"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Policy analysis" 
+  name = "Policy Analysis" 
   
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "Data visualization"
+  name = "Data Visualization"
 
 [[feature]]
   icon = "file-powerpoint"
   icon_pack = "fas"
-  name = "Lecturing and training"
+  name = "Lecturing and Training"
   
 [[feature]]
  icon = "book-open"
  icon_pack = "fas"
- name = "Knowledge translation"
+ name = "Knowledge Translation"
  
 [[feature]]
   icon = "handshake"
