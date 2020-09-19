@@ -52,15 +52,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AlineSociology
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.nl/citations?user=m1BQT7EAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/AlineCoutinho
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/aline-coutinho-phd-42b089169/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.nl/citations?user=m1BQT7EAAAAJ&hl=en&oi=ao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
