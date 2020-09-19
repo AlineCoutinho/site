@@ -4,7 +4,7 @@ A partir da análise de editoriais dos três principais jornais da imprensa bras
 observa outra faceta: como a crise é constituída como 'desvio' a ser corrigido pela punição ou exclusão de determinados atores e comportamentos, impedindo que se 
 coloque em questão os fundamentos do regime político."
 
-authors = ["Luis Felipe Miguel", "Aline Coutinho"]
+authors = ["Luis F. Miguel", "Aline Coutinho"]
 date = "2007-06-01"
 image_preview = ""
 math = true
