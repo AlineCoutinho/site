@@ -1,4 +1,4 @@
-+++ abstract = One of the most hotly debated ideas in science studies is the claim that contemporary science is in the midst of a transformation. While
++++ abstract = "One of the most hotly debated ideas in science studies is the claim that contemporary science is in the midst of a transformation. While
 ‘transformationalist’ arguments and concepts vary, their core principle is that the norms, values and practices that have enforced the separation of science
 from society are being challenged by new expectations that scientists pursue closer connections with industry, government and/or civil society, and address
 research questions of immediate value to non-academic partners. While many major funding agencies have embraced this idea and now pressure scientists to enhance
