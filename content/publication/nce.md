@@ -12,7 +12,7 @@ are favoured over softer qualitative outcomes, such as public engagement and kno
 observable impact on the rhetoric of science, but any resulting transformations in practice are incremental rather than radical."
 
 authors = ["Aline Coutinho", "Nathan Young"]
-date = "2017-02-10"
+date = "2017-02-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
