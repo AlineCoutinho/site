@@ -34,6 +34,7 @@ interests:
 - Economic Sociology
 - Organizational Analysis
 - Gender-Based Analysis (GBA+)
+- Equality, Diversity, and Inclusion (EDI)
 
 education:
   courses:
