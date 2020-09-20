@@ -81,7 +81,7 @@ am a firm believer in the power of data and evidence-based arguments. As such, a
 interpretation and visualization. My courses include *Local and Global Economic Relations*, *Globalization: Sociological and Anthropological Approaches*, *Sociology of
 Work and Organizations*, *Globalization and Environment*, *Economic Anthropology*, and *Contemporary Sociological Theory*.
 
-I am passionate about the statistical language programming R, reproducible research, open-source philosophy, and inclusive knowledge community.
+I am passionate about the statistical language programming R, open-source philosophy, and creating an inclusive and diverse knowledge community.
 
 Want to start a conversation with me? Ask me about my favourite hobbies: motorcycles, gardening, coding in R, universal literature, independent movies, and walking dogs (especially whippets).
 
