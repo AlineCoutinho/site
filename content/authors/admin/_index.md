@@ -78,8 +78,8 @@ Welcome to my website!
 **Research**
 
 I am a sociologist whose research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. Currently, I conduct applied research on
-the post-pandemic economic recovery in Canada, by focusing on identifying sustainable and inclusive solutions to decarbonize the economy, improve social and health outcomes, and
-increase economic performance. Recently, I've studied entrepreneurship building programs and the emergence of the economic category of ‘the entrepreneur’ in Brazil. I also 
+the post-pandemic economic recovery in Canada, with a focus on identifying sustainable and inclusive solutions to decarbonize the economy, improve social and health outcomes, 
+and increase economic performance. Recently, I've studied entrepreneurship building programs and the emergence of the economic category of ‘the entrepreneur’ in Brazil. I also 
 have experience researching climate change governance in Canada and Australia, knowledge translation and mobilization, and political scandals. My work has been published in 
 English and Portuguese language peer-reviewed journals.
 
