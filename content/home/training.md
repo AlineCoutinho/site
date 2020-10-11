@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2020-01-01"
-  date_end = "2020-01-01"
+  date_end = ""
   description = "105 hours"
 
 [[item]]
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2019-01-01"
-  date_end = "2019-01-01"
+  date_end = ""
   description = "105 hours"
   
 [[item]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2017-05-01"
-  date_end = "2017-06-01"
+  date_end = ""
   description = ""
 
 [[item]]
@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2013-06-01"
-  date_end = "2013-06-01"
+  date_end = ""
   description = ""
   
 [[item]]
@@ -85,7 +85,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2012-01-01"
-  date_end = "2012-01-01"
+  date_end = ""
   description = "12 hours"
   
   [[item]]
@@ -95,7 +95,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2007-06-01"
-  date_end = "2011-07-01"
+  date_end = ""
   description = "73 hours"
   
   
