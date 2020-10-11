@@ -96,4 +96,4 @@ I am passionate about the statistical language programming R, open-source philos
 
 Want to start a conversation with me? Ask me about my favourite hobbies and life interests: motorcycles, gardening, coding in R, universal literature, indie movies, jazz, and dogs (especially whippets).
 
-###{{% staticref "files/cv.pdf" %}}Download my CV here{{% /staticref %}}
+# {{% staticref "files/cv.pdf" %}}Download my CV here{{% /staticref %}}
