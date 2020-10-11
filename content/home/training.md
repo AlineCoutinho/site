@@ -89,7 +89,7 @@ date_format = "Jan 2006"
   description = "12 hours"
   
   [[item]]
-  organization = "Instituto Universitário de Pesquisas do Rio de Janeiro - IUPERJ)"
+  organization = "Instituto Universitário de Pesquisas do Rio de Janeiro - IUPERJ"
   organization_url = ""
   title = "Public Opinion, Media and Communication Strategies"
   url = ""
