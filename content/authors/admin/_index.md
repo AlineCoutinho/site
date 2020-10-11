@@ -33,7 +33,7 @@ bio: My research interests include entrepreneurship development, organizational 
 interests:
 - Economic Sociology
 - Organizational Analysis
-- Climate Change Governance
+- Climate Governance
 - Green Economy
 - Gender-Based Analysis (GBA)
 - Equality, Diversity, and Inclusion (EDI)
