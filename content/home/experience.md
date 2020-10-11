@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "*Ad-hoc* advisor"
+  title = "*Ad hoc* advisor"
   company = "Canada Revenue Agency - MUAEC"
   company_url = ""
   location = "Ottawa, Canada"
