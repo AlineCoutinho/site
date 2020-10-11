@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Ottawa, Canada"
   date_start = "2020-10-01"
-  date_end = "2020-10-01"
+  date_end = ""
   description = """
   Responsibilities include:
   
