@@ -9,7 +9,6 @@ categories:
 - Higher-education
 tags:
 - All
-- R tutorials
 
 ---
 
