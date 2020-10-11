@@ -49,6 +49,16 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
+  organization = "University of Ottawa"
+  organization_url = ""
+  title = "Certificate in University Teaching for Professors"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-01"
+  date_end = "2015-01-01"
+  description = ""
+  
+[[item]]
   organization = "Humboldt University"
   organization_url = "https://berlinsummerschool.de/"
   title = "Berlin Summer School in Social Sciences: Linking Theory and Empirical Research"
