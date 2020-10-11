@@ -30,7 +30,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include entrepreneurship development, organizational practices, and inequality regimes.
 
-research interests:
+interests:
 - Economic Sociology
 - Organizational Analysis
 - Climate Change Governance
