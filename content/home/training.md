@@ -2,7 +2,7 @@
 # Training widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Aditional training"
@@ -20,102 +20,74 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "IPSA-USP Summer School"
-  organization_url = ""
+  organization_url = "https://www.ipsa.org/summer-school/sao-paulo"
   title = "Track on Time Series Cross-Sectional Data Analysis"
-  url = "https://www.ipsa.org/summer-school/sao-paulo"
+  url = ""
   certificate_url = ""
-  date_start = "2020-01-13"
-  date_end = "2020-01-31"
+  date_start = "2020-01-01"
+  date_end = "2020-01-01"
   description = "35 hours"
 
 [[item]]
-  organization = "$1,450.00 Euros"
-  organization_url = ""
-  title = "DAAD Travel Grant from the Berlin Summer School in Social Sciences"
+  organization = "IPSA-USP Summer School"
+  organization_url = "https://www.ipsa.org/summer-school/sao-paulo"
+  title = "From Regression to Multi-Method Research Track"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-01-01"
+  date_end = "2019-01-01"
+  description = "35 hours"
+  
+[[item]]
+  organization = "Université Saint-Paul"
+  organization_url = "https://ustpaul.ca/innovation-sociale.php?gclid=Cj0KCQjwt4X8BRCPARIsABmcnOqTqiCaFKoVV4CQJmTXP8WGyHOb3yQfm10xKjpmwe-ANneDpYmFSxkaApeVEALw_wcB"
+  title = "École d’Été en Innovation Sociale"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-05-01"
+  date_end = "2017-06-01"
+  description = ""
+
+[[item]]
+  organization = "Humboldt University"
+  organization_url = "https://berlinsummerschool.de/"
+  title = "Berlin Summer School in Social Sciences: Linking Theory and Empirical Research"
   url = ""
   certificate_url = ""
   date_start = "2014-07-01"
   date_end = "2014-08-01"
-  description = "35 hours"
-  
-[[item]]
-  organization = "CAN$ 20,000.00"
-  organization_url = ""
-  title = "SSHRC Doctoral Fellowship"
-  url = ""
-  certificate_url = ""
-  date_start = "2013-09-01"
-  date_end = "2014-08-01"
   description = ""
 
 [[item]]
-  organization = "CAN$ 15,000.00 - Declined due to SSHRC non-cumulative policy"
+  organization = "Population and Development - Brown International Advanced Research Institutes (BIARI)"
   organization_url = ""
-  title = "OGS Doctoral Scholarship"
+  title = "Brown University"
   url = ""
   certificate_url = ""
-  date_start = "2013-09-01"
-  date_end = "2014-08-01"
-  description = ""
-
-[[item]]
-  organization = "Tuition fees fully covered"
-  organization_url = ""
-  title = "University of Ottawa Excellence Scholarship"
-  url = ""
-  certificate_url = ""
-  date_start = "2013-09-01"
-  date_end = "2015-08-01"
+  date_start = "2013-06-01"
+  date_end = "2013-6-01"
   description = ""
   
 [[item]]
-  organization = "Tuition fees fully covered"
-  organization_url = ""
-  title = "University of Ottawa Graduate Admission Scholarship"
+  organization = "NVivo - QSR International"
+  organization_url = "https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home"
+  title = "Workshop – Nvivo Basic and Advanced Workshop"
   url = ""
   certificate_url = ""
-  date_start = "2011-09-01"
-  date_end = "2013-08-01"
-  description = ""
+  date_start = "2012-01-01"
+  date_end = "2013-01-01"
+  description = "12 hours"
   
   [[item]]
-  organization = "Tuition fees partly covered"
+  organization = "Instituto Universitário de Pesquisas do Rio de Janeiro - IUPERJ)"
   organization_url = ""
-  title = "University of Ottawa International Differential Scholarship"
+  title = "Public Opinion, Media and Communication Strategies"
   url = ""
   certificate_url = ""
-  date_start = "2010-09-01"
-  date_end = "2011-08-01"
-  description = ""
+  date_start = "2007-06-01"
+  date_end = "2011-07-01"
+  description = "73 hours"
   
-  [[item]]
-  organization = "R$ 14,000.00"
-  organization_url = ""
-  title = "CNPq Master's Scholarship"
-  url = ""
-  certificate_url = ""
-  date_start = "2008-01-01"
-  date_end = "2008-12-01"
-  description = ""
   
-  [[item]]
-  organization = "R$ 14,000.00"
-  organization_url = ""
-  title = "Capes Master's Scholarship"
-  url = ""
-  certificate_url = ""
-  date_start = "2007-01-01"
-  date_end = "2007-12-01"
-  description = ""
-  
-  [[item]]
-  organization = "R$ 300.00/ month"
-  organization_url = ""
-  title = "CNPq Scientific Initiation Scholarship"
-  url = ""
-  certificate_url = ""
-  date_start = "2005-01-01"
-  date_end = "2006-12-01"
-  description = ""
 +++
 
