@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2013-06-01"
-  date_end = "2013-6-01"
+  date_end = "2013-06-01"
   description = ""
   
 [[item]]
@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2012-01-01"
-  date_end = "2013-01-01"
+  date_end = "2012-01-01"
   description = "12 hours"
   
   [[item]]
