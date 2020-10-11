@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-01-01"
   date_end = "2020-01-01"
-  description = "35 hours"
+  description = "105 hours"
 
 [[item]]
   organization = "IPSA-USP Summer School"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-01-01"
   date_end = "2019-01-01"
-  description = "35 hours"
+  description = "105 hours"
   
 [[item]]
   organization = "Université Saint-Paul"
