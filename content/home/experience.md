@@ -17,6 +17,24 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Research consultant"
+  company = "Smart Prosperity Institute"
+  company_url = ""
+  location = "Ottawa, Canada"
+  date_start = "2020-10-01"
+  date_end = "2020-10-01"
+  description = """
+  Responsibilities include:
+  
+  * Literature review
+  * Data collection
+  * Cost-benefit analysis of 'green economy' policy/projects
+  * Policy assessment
+  * Knowledge translation
+  """
+  
 [[experience]]
   title = "Lecturer"
   company = "University of Ottawa"
