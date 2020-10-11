@@ -28,7 +28,7 @@ organizations:
   
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include entrepreneurship development, organizational practices, and inequality regimes.
+bio: My research interests include entrepreneurship development, organizational practices, climate governance, and inequality regimes.
 
 interests:
 - Economic Sociology
@@ -78,21 +78,22 @@ Welcome to my website! I am an economic sociologist, a research consultant, and 
 **Research**
 
 My research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. Currently, I conduct applied research on
-the post-pandemic economic recovery in Canada, with a focus on identifying sustainable and inclusive solutions to decarbonize the economy, improve social and health outcomes, 
-and increase economic performance. During my PhD, I investigated entrepreneurship building programs and the emergence of the economic category of ‘the entrepreneur’ in Brazil. I 
-also have experience researching climate change governance in Canada and Australia, knowledge translation and mobilization, and political scandals. My work has been published in 
-anglo and lusophone peer-reviewed journals.
+the post-pandemic economic recovery in Canada, with a focus on identifying sustainable and inclusive solutions to decarbonize the economy, improve social and 
+health outcomes, and increase economic performance. During my PhD, I investigated entrepreneurship building programs and the emergence of the economic category of 
+‘the entrepreneur’ in Brazil. I also have experience researching climate change governance in Canada and Australia, knowledge translation and mobilization, and 
+political scandals. My work has been published in anglo and lusophone peer-reviewed journals.
 
 **Teaching**
 
-As an educator, my teaching philosophy builds on an approach that seeks to link class discussions of sociological theories and concepts to students’ lived experiences. I
-am a firm believer in the power of data and evidence-based arguments. As such, a considerable portion of my lectures and teaching materials is devoted to teach data
-interpretation and visualization. My courses include *Local and Global Economic Relations*, *Globalization: Sociological and Anthropological Approaches*, *Sociology of
-Work and Organizations*, *Globalization and Environment*, *Economic Anthropology*, and *Contemporary Sociological Theory*.
+As an educator, my teaching philosophy builds on an approach that seeks to link class discussions of sociological theories and concepts to students’ lived 
+experiences. I am a firm believer in the power of data and evidence-based arguments. As such, a considerable portion of my lectures and teaching materials is 
+devoted to teach data interpretation and visualization. My courses include *Local and Global Economic Relations*, *Globalization: Sociological and Anthropological 
+Approaches*, *Sociology of Work and Organizations*, *Globalization and Environment*, *Economic Anthropology*, and *Contemporary Sociological Theory*.
 
 **Passions and hobbies**
 
 I am passionate about the statistical language programming R, open-source philosophy, and creating an inclusive and diverse knowledge community.
 
-Want to start a conversation with me? Ask me about my favourite hobbies and life interests: motorcycles, gardening, coding in R, universal literature, indie movies, jazz, and dogs (especially whippets).
+Want to start a conversation with me? Ask me about my favourite hobbies and life interests: motorcycles, gardening, coding in R, universal literature, indie 
+movies, jazz, and dogs (especially whippets).
 
