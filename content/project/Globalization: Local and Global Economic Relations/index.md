@@ -1,6 +1,6 @@
 ---
 aliases: [arm]
-title: Globalization: Sociological and Anthropological Approaches
+title: Globalization - Sociological and Anthropological Approaches
 summary: Undergraduate course plan
 abstract: ""
 date: ""
