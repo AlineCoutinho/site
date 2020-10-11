@@ -1,6 +1,6 @@
 ---
 aliases: [arm]
-title: Economic Anthropology
+title: Globalization and the Environment
 summary: Undergraduate course plan
 abstract: ""
 date: ""
