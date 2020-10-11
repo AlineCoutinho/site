@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Ottawa"
   organization_url = ""
-  title = "Certificate in University Teaching for Professors"
+  title = "University Teaching for Professors"
   url = ""
   certificate_url = ""
   date_start = "2013-01-01"
