@@ -6,7 +6,7 @@ abstract: ""
 date: ""
 
 categories:
-- Higher-education
+- Workshops
 tags:
 - All
 
