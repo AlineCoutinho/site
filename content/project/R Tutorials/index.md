@@ -9,6 +9,7 @@ categories:
 - Workshops
 tags:
 - All
+- R
 
 ---
 
