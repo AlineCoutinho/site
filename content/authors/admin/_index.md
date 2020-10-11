@@ -73,7 +73,7 @@ social:
 
 ---
 
-Welcome to my website! I am an economic sociologist, and a sessional lecturer at the University of Ottawa, Canada.
+Welcome to my website! I am an economic sociologist, a research consultant, and a sessional lecturer at the University of Ottawa, Canada.
 
 **Research**
 
