@@ -73,7 +73,7 @@ social:
 
 ---
 
-Welcome to my website! I am an economic sociologist, a research consultant at the Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada.
+Welcome to my website! I am an economic sociologist, a researcher at the Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada.
 
 **Research**
 
