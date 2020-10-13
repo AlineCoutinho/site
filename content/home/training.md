@@ -70,7 +70,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Brown University"
-  organization_url = ""
+  organization_url = "https://watson.brown.edu/biari/"
   title = "Population and Development - Brown International Advanced Research Institutes (BIARI)"
   url = ""
   certificate_url = ""
@@ -98,6 +98,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = "73 hours"
   
-  
+  [[item]]
+  organization = "Universidade de Brasília - UnB"
+  organization_url = "http://www.ipol.unb.br/"
+  title = "Democracy and Elections in Brazil"
+  url = ""
+  certificate_url = ""
+  date_start = "2006-06-01"
+  date_end = ""
+  description = "128 hours"
 +++
 
