@@ -14,7 +14,7 @@ role: Economic Sociologist. Researcher. Educator.
 
 # Organizations/Affiliations
 organizations:
-- name: "Smart Prosperity Institute. University of Ottawa"
+- name: "Smart Prosperity Institute"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,7 +73,7 @@ social:
 
 ---
 
-Welcome to my website! I am an economic sociologist, a research consultant at Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada.
+Welcome to my website! I am an economic sociologist, a research consultant at the Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada.
 
 **Research**
 
