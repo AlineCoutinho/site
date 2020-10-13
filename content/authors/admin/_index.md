@@ -77,11 +77,11 @@ Welcome to my website! I am an economic sociologist, a research consultant at th
 
 **Research**
 
-My research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. Currently, I conduct applied research on
-the post-pandemic economic recovery in Canada, with a focus on identifying sustainable and inclusive solutions to decarbonize the economy, improve social and 
-health outcomes, and increase economic performance. During my PhD, I investigated entrepreneurship building programs and the emergence of the economic category of 
-‘the entrepreneur’ in Brazil. I also have experience researching climate change governance in Canada and Australia, knowledge translation and mobilization, and 
-political scandals. My work has been published in anglo and lusophone peer-reviewed journals.
+My research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. Currently, I conduct research on the
+benefits to human health associated low-carbon infrastructure policies, with a focus on identifying sustainable and inclusive solutions to decarbonize the 
+economy, improve social and health outcomes, and increase economic performance. During my PhD, I investigated entrepreneurship building programs and the emergence 
+of the economic category of ‘the entrepreneur’ in Brazil. I also have experience researching climate change governance in Canada and Australia, knowledge 
+translation and mobilization, and political scandals. My work has been published in anglo and lusophone peer-reviewed journals.
 
 **Teaching**
 
