@@ -28,11 +28,11 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Literature review
-  * Data collection
+  * Identification of climate solutions
   * Cost-benefit analysis of 'green economy' policy/projects
   * Policy assessment
   * Knowledge translation
+  * Team leader
   """
   
 [[experience]]
