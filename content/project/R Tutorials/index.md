@@ -1,7 +1,7 @@
 ---
 aliases: [arm]
 title: R Tutorials
-summary: A list of R tutorials to complement class materials
+summary: A list of R tutorials to supplement class materials
 abstract: ""
 date: ""
 
