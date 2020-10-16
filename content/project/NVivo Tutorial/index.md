@@ -1,7 +1,7 @@
 ---
 aliases: [arm]
 title: NVivo Tutorial
-summary: Undergraduate level tutorial
+summary: NVivo tutorial to supplement class materials
 abstract: ""
 date: ""
 
