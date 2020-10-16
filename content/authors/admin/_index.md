@@ -85,10 +85,10 @@ translation and mobilization, and political scandals. My work has been published
 
 **Teaching**
 
-As an educator, my teaching philosophy builds on an approach that seeks to link class discussions of sociological theories and concepts to students’ lived 
-experiences. I am a firm believer in the power of data and evidence-based arguments. As such, a considerable portion of my lectures and teaching materials is 
-devoted to teach data interpretation and visualization. My courses include *Local and Global Economic Relations*, *Globalization: Sociological and Anthropological 
-Approaches*, *Sociology of Work and Organizations*, *Globalization and Environment*, *Economic Anthropology*, and *Contemporary Sociological Theory*.
+My teaching philosophy builds on an approach that links sociological theories and concepts to students’ lived experiences. I trust it is important to make sociological work 
+'feel concrete and relevant' to current social problems. I am a firm believer in the power of data and evidence-based arguments. As such, a portion of my lectures 
+and teaching materials is devoted to teach data interpretation and visualization. My courses include *Local and Global Economic Relations*, *Globalization: Sociological and 
+Anthropological Approaches*, *Sociology of Work and Organizations*, *Globalization and Environment*, *Economic Anthropology*, and *Contemporary Sociological Theory*.
 
 **Passions and hobbies**
 
