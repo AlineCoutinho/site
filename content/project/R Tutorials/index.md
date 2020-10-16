@@ -18,7 +18,7 @@ level principles and procedures of data summary, analysis and visualization. The
 
  - To help students set R and RStudio in their desktops; 
  - To explain basic R syntax;
- - To initiate students with data wrangling;
+ - To initiate familiarity with data wrangling and tidy data;
  - To improve skills in data visualization and data interpretation;
  - To learn how to produce R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint) in the form of customizable reports. 
  
