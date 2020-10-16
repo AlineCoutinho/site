@@ -13,13 +13,13 @@ tags:
 
 ---
 
-These tutorials were designed as complementary materials for my courses in Sociology. They include information about R and RStudio installation, libraries and packages, anb entry-
-level principles and procedures of data analysis and visualization. The goals of these turotials are:
+These tutorials were designed as complementary materials for my courses in Sociology. They include information about R and RStudio installation, libraries and packages, and entry-
+level principles and procedures of data summary, analysis and visualization. The goals of these turotials are:
 
  - To help students set R and RStudio in their desktops; 
  - To explain basic R syntax;
  - To initiate students with data wrangling;
  - To improve skills in data visualization and data interpretation;
- - learn how to produce R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint) in the form of customizable reports. 
+ - To learn how to produce R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint) in the form of customizable reports. 
  
  
