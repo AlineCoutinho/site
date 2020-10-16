@@ -1,7 +1,7 @@
 ---
 aliases: [arm]
 title: Data Visualization
-summary: Plots used in several of my Sociology courses
+summary: Plots used in my courses
 abstract: ""
 date: ""
 
