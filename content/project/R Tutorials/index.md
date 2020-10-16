@@ -13,7 +13,7 @@ tags:
 
 ---
 
-These tutorials were designed as complementary materials for my courses in Sociology. They include information about R and RStudio installation, libraries and packages, and entry-
+These tutorials were designed as supplementary materials for my courses in Sociology. They include information about R and RStudio installation, libraries and packages, and entry-
 level principles and procedures of data summary, analysis and visualization. 
 
 Learning outcomes:
