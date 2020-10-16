@@ -22,4 +22,4 @@ level principles and procedures of data summary, analysis and visualization. The
  - To improve skills in data visualization and data interpretation;
  - To be able to produce R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint) in the form of customizable reports. 
  
-  {{% staticref "files/Setting-up.pdf" %}}Download Tutorial 1 here{{% /staticref %}}.
+  {{% staticref "files/Setting-up.pdf" %}}Tutorial 1 - The set up{{% /staticref %}}.
