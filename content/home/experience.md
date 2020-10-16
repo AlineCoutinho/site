@@ -32,8 +32,7 @@ date_format = "Jan 2006"
   * Cost-benefit analysis of 'green economy' policy/projects
   * Policy assessment
   * Knowledge translation
-  * Team leader
-  """
+    """
   
 [[experience]]
   title = "Lecturer"
