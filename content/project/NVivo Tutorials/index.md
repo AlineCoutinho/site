@@ -12,6 +12,8 @@ tags:
 - Courses
 
 ---
+These tutorials were designed as supplementary materials for my courses in Sociology. They include information about NVivo installation, coding qualitative data in NVivo, and 
+qualitative data analysis and visualization. 
 
 Learning outcomes:
 
