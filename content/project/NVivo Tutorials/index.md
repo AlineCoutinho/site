@@ -32,4 +32,4 @@ Learning outcomes:
 - Create reports
 - To understand and use the NCapture function
 
-
+ {{% staticref "files/Tutorial-1.pdf" %}}Tutorial 1 - The NVivo Environment{{% /staticref %}}.
