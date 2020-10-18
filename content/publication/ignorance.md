@@ -12,7 +12,7 @@ selected = false
 title = "Government, Anti-Reflexivity, and the Construction of Public Ignorance about Climate Change: Australia and Canada Compared"
 url_code = ""
 url_dataset = ""
-url_pdf = """https://d1wqtxts1xzle7.cloudfront.net/46135059/Young_and_Coutinho__2013__government__anti-reflexivity__and_the_construction_of_ignorance_about_cc.pdf?1464794901=&response-content-disposition=inline%3B+filename%3DGovernment_Anti_Reflexivity_and_the_Cons.pdf&Expires=1603048977&Signature=XUh-w98ftJ2FwCSJqtF0WvmhcdrsoVDdnOrc7uTzr2AbtHsvZX7CNfYSBY7CZ3lHqXGNfjmIwyUn1L0qKdUv-br1c8gqmB6Ij~yJol5jMphR887gHgKH5QL-2fL97dgcl~4KS3Rqw~9PcYfl~m-vpWFm2eb4IC65j691lgxzZtkBK5FqWD-JRhy0gB3~M0mjqDwH4CFOyBdYMO5VB4y-fuMsZrXeID6jPmLFTRoqWp0FfUiEVvOx~4Jf5ixhOYZYV5evNPT6ZEHSFRC61TH56BGrm8kVLuHKPqFsrZjmTHhVanHSlMRfblbiSMVYXfZx-ikPKx8cYmBFcGqM5cIGhA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"""
+url_pdf = """https://d1wqtxts1xzle7.cloudfront.net/57108235/Coutinho_and_Young__2016__science_transformed__NCE_societial_relevance.pdf?1533054910=&response-content-disposition=inline%3B+filename%3DScience_transformed_A_comparative_analys.pdf&Expires=1603049028&Signature=MKszgCWF2t1~l0HlJvmU8rtSoXKFCUn2QNnIpRK-g245o5Ot31pOUE1Tq6hGy8ApYrHHiWPSDaMM~k1r-7gXyNQpYUrgT2c0-DPIt0uBRZwsB490ghI48jhTpGgdK~m-hB~-vSpRefaiL7-~8QnE4bQi6G57udsDDqseIkTTWsjm9qgJpqRW0qK~vBdnQ7ZveeqXNwz44x423hTHW-K2AqZbWRgpryD1F1ve0IG-kAZm62sFPhEVnamPeFkpZCNSCeB0cQOZb65~LphDtnuTk2e-aPL5M32YOAEBG7OxNXLHc4ZVhhh2EibY0mu-3SrQ7iMMCRNv2XtmotLQiNPqZg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"""
 url_project = ""
 url_slides = ""
 url_video = ""
