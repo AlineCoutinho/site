@@ -33,4 +33,5 @@ Learning outcomes:
 - To understand and use the NCapture function
 
  {{% staticref "files/Tutorial-1.pdf" %}}Tutorial 1 - The NVivo 12 Environment{{% /staticref %}}
+ 
  {{% staticref "files/Tutorial-2.pdf" %}}Tutorial 2 - First Steps{{% /staticref %}}
