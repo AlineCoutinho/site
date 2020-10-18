@@ -12,7 +12,7 @@ selected = false
 title = "Government, Anti-Reflexivity, and the Construction of Public Ignorance about Climate Change: Australia and Canada Compared"
 url_code = ""
 url_dataset = ""
-url_pdf = """https://d1wqtxts1xzle7.cloudfront.net/46135059/Young_and_Coutinho__2013__government__anti-reflexivity__and_the_construction_of_ignorance_about_cc.pdf?1464794901=&response-content-disposition=inline%3B+filename%3DGovernment_Anti_Reflexivity_and_the_Cons.pdf&Expires=1603061054&Signature=UtscQR2~C4wSh59bCJZe-X0-zWDCpwCmhONuLUtVB0yfvetn3aX2tdhUDSJbvCE7B0yueovGG3~qc4pARs4H7340~6GZCplpJVPBHkVJhlIf-iXLfs9FlStQHpeVN6dUrkAHg0-YDaq~Ih49wlj6enwyobGiLtmH1b6oylqIGJ63GXhV4-1dD7MrSwh56bgeYLlrQKgUcQwzDC6DxTY2U1fv~kTp7BW6u8VHk6ghDZPtUReUxy681VpM76z5X~dmOUW~MMaOxqMaMc2Ow4qLsCfu8lPl08MQpHsIQpJCrtvU3oHdZBGdftNcmjQBIBDnYGmPb30RXDg4W7rslQGYNw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"""
+url_pdf = "https://doi.org/10.1162/GLEP_a_00168"
 url_project = ""
 url_slides = ""
 url_video = ""
