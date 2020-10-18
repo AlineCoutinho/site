@@ -22,4 +22,4 @@ Learning outcomes:
  - To improve skills in data visualization and interpretation;
  - To produce R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint) in the form of customizable reports. 
  
-  {{% staticref "files/Setting-up.pdf" %}}Tutorial 1 - Installation{{% /staticref %}}.
+  {{% staticref "files/Setting-up.pdf" %}}Tutorial 1 - Installation{{% /staticref %}}
