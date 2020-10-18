@@ -12,7 +12,7 @@ selected = false
 title = "Science transformed? A comparative analysis of ‘societal relevance’ rhetoric and practices in 14 Canadian Networks of Centres of Excellence"
 url_code = ""
 url_dataset = ""
-url_pdf = """https://d1wqtxts1xzle7.cloudfront.net/57108235/Coutinho_and_Young__2016__science_transformed__NCE_societial_relevance.pdf?1533054910=&response-content-disposition=inline%3B+filename%3DScience_transformed_A_comparative_analys.pdf&Expires=1602951071&Signature=a1II4p6EeeVcTsH3CL8IrZpK0ZzgJmg5vMcRI6Nqxq38~Iuen9zKx~4WTr9bbIFIeJTVDsZmZc~FFo6e5Pl1Xd~JQRjA2Ej1GA~z3c3DZYVyoJ-bbz7k~9dKzt7veUK1uvd~rZKx5YyCP8jM1GX5ErNUzfwlT7xERE-M8gNbi429IxYglA1p16efeulLLnJFX7PNHhUDK6VeEcLuWblBAtv8MNCyjsAOMfbB8N77FkYt2-TvqJrU7wHtP11VCVkNcX6zRT4vDdhDNmMc2o7Cp8Z32zMbfRO0TZW9geIH-c~WfGIbsiBrRy1sYoXAhtBhgRKIQ05gLAhOiiO1AI5J-Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"""
+url_pdf = """https://d1wqtxts1xzle7.cloudfront.net/57108235/Coutinho_and_Young__2016__science_transformed__NCE_societial_relevance.pdf?1533054910=&response-content-disposition=inline%3B+filename%3DScience_transformed_A_comparative_analys.pdf&Expires=1603049028&Signature=MKszgCWF2t1~l0HlJvmU8rtSoXKFCUn2QNnIpRK-g245o5Ot31pOUE1Tq6hGy8ApYrHHiWPSDaMM~k1r-7gXyNQpYUrgT2c0-DPIt0uBRZwsB490ghI48jhTpGgdK~m-hB~-vSpRefaiL7-~8QnE4bQi6G57udsDDqseIkTTWsjm9qgJpqRW0qK~vBdnQ7ZveeqXNwz44x423hTHW-K2AqZbWRgpryD1F1ve0IG-kAZm62sFPhEVnamPeFkpZCNSCeB0cQOZb65~LphDtnuTk2e-aPL5M32YOAEBG7OxNXLHc4ZVhhh2EibY0mu-3SrQ7iMMCRNv2XtmotLQiNPqZg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"""
 url_project = ""
 url_slides = ""
 url_video = ""
