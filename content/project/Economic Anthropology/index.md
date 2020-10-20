@@ -13,11 +13,11 @@ tags:
 
 ---
 
-Economic anthropologists are mainly concerned with understanding how economic activities intersect with cultural, political, social and institutional processes. While challenging orthodox assumptions about economic rationality, we will discuss the embeddedness of the economy in culture. 
+Economic anthropologists are mainly concerned with understanding how economic activities intersect with cultural, political, social and institutional processes. While challenging orthodox assumptions about economic rationality, we discuss the embeddedness of the economy in culture. 
 
-In our course we will peruse through classic and recent debates in economic anthropology with the aim of developing critical reading and writing skills. 
+In our course we peruse through classic and recent debates in economic anthropology with the aim of developing critical reading and writing skills. 
 
-The course is designed to provide students with an overview of the most relevant theoretical approaches and conceptual tools used in economic anthropology to analyze hunting, gathering, pastoral and gift economies as well as market capitalism.
+The course is designed to provide students with an overview of the most relevant theoretical approaches and conceptual tools used in economic anthropology to analyze hunting, gathering, pastoral, and gift economies, as well as market capitalism.
 
 At the end of the course, students will be able to:
 
