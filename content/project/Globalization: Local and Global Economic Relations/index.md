@@ -30,4 +30,4 @@ At the end of the course, students should be able to:
 In sum, students should be able to make sense of current global flows and to critically assess information thereof provided by media, academic work, and other 
 channels.
 
-{{% staticref "files/soc2151.pdf" %}}Download full syllabus here{{% /staticref %}}
+{{% staticref "files/soc2151.pdf" %}}Download latest syllabus here{{% /staticref %}}
