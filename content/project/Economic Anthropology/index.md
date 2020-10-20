@@ -26,4 +26,4 @@ At the end of the course, students will be able to:
 3) Make sense of economic phenomena with reference to ethnographic and theoretical material. 
 
 
-{{% staticref "files/soc2151.pdf" %}}Download latest syllabus here{{% /staticref %}}
+{{% staticref "files/ant3131.pdf" %}}Download latest syllabus here{{% /staticref %}}
