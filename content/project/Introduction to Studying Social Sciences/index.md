@@ -37,3 +37,4 @@ At the end of the course, students should be able to:
 3. interpret scientific information and assess sources of information
 4. understand the ethical practices within academic community.
 
+{{% staticref "files/soc1150.pdf" %}}Download latest syllabus here{{% /staticref %}}
