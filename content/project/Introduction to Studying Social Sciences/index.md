@@ -13,9 +13,9 @@ tags:
 
 ---
 
-Welcome to Introduction to Social Sciences! This course is designed to help students develop basic academic and non-academic strategies to succeed in their studies in social sciences. We will discuss the research process in social sciences and its importance in an age of abundant information. We will learn how to develop research questions, produce a research project, conduct a literature review, collect data, critically assess research claims, summarize and manage information, and report research findings.
+This course is designed to help students develop basic academic and non-academic strategies to succeed in their studies in social sciences. We discuss the research process in social sciences and its importance in an age of abundant information. We learn how to develop research questions, produce a research project, conduct a literature review, collect data, critically assess research claims, summarize and manage information, and report research findings.
 
-As such, the course will introduce students to the idea of social sciences, and help students develop strategies to learn efficiently. Most specifically, this course seeks to help students:
+As such, the course introduces students to the idea of social sciences, and help students develop strategies to learn efficiently. Most specifically, this course seeks to help students:
 
 -	Familiarize with the methods of social science research. 
 -	Understand the use of theory and concepts in social sciences
@@ -32,9 +32,9 @@ As such, the course will introduce students to the idea of social sciences, and 
 
 At the end of the course, students should be able to:
 
-1. have a solid foundation in academic literacy 
-2. convey research findings and communicate effectively 
-3. interpret scientific information and assess sources of information
-4. understand the ethical practices within academic community.
+1. Have a solid foundation in academic literacy; 
+2. Convey research findings and communicate effectively; 
+3. Interpret scientific information and assess sources of information;
+4. Understand the ethical practices within academic community.
 
 {{% staticref "files/soc1150.pdf" %}}Download latest syllabus here{{% /staticref %}}
