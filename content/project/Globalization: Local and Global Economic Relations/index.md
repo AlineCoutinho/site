@@ -13,7 +13,7 @@ tags:
 
 ---
 
-"""What exactly is Globalization? A process? An ideology? A historical moment? Does Globalization even exist? If so, when did it start? There are no consensual answers to these questions. The answers cater to the flavor of the writer: each providing a definition and emphasizing a different aspect of social reality. However, it is undeniable that the 20th century, at least in the West, have witnessed increasing flows of peoples, commodities, culture, beliefs, and capital across national borders - some elements flowing easier than others, for sure. This course is designed to introduce students to important and contemporary issues related to these global flows. It touch on the most relevant theoretical approaches and conceptual tools used by both sociologists and anthropologists when trying to make sense of diverse global phenomena. 
+What exactly is Globalization? A process? An ideology? A historical moment? Does Globalization even exist? If so, when did it start? There are no consensual answers to these questions. The answers cater to the flavor of the writer: each providing a definition and emphasizing a different aspect of social reality. However, it is undeniable that the 20th century, at least in the West, have witnessed increasing flows of peoples, commodities, culture, beliefs, and capital across national borders - some elements flowing easier than others, for sure. This course is designed to introduce students to important and contemporary issues related to these global flows. It touch on the most relevant theoretical approaches and conceptual tools used by both sociologists and anthropologists when trying to make sense of diverse global phenomena. 
 
 In my lectures, we consider the existence, scale, unevenness, and intensity of an array of global flows and structures. We discuss a wide assortment of global processes, its contradictions and ambiguities as well as different resistance movements and alternatives to Globalization. We also explore some positive and perverse outcomes of many global activities in an attempt to improve our critical capacity toward Globalization.
 
@@ -28,6 +28,6 @@ At the end of the course, students should be able to:
 4) Critically identify some of the socioeconomic and environmental effects of Globalization.
 
 In sum, students should be able to make sense of current global flows and to critically assess information thereof provided by media, academic work, and other 
-channels."""
+channels.
 
 {{% staticref "files/soc2151.pdf" %}}Download full syllabus here{{% /staticref %}}
