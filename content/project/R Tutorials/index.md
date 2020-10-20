@@ -23,3 +23,5 @@ Learning outcomes:
  - To produce R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint) in the form of customizable reports. 
  
   {{% staticref "files/Setting-up.pdf" %}}Tutorial 1 - Installation{{% /staticref %}}
+  
+  {{% staticref "files/packagesR.pdf" %}}Tutorial 2 - Packages{{% /staticref %}}
