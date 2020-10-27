@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Identification of climate solutions
-  * Cost-benefit analysis of 'green economy' policy/projects
+  * Creation of policy-decision framework for policymakers
   * Policy assessment
   * Knowledge translation
     """
