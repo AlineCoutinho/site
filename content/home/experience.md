@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Identification of climate solutions
-  * Creation of policy-decision framework for policymakers
+  * Creation of conceptual frameworks for policymakers
   * Policy assessment
   * Knowledge translation
     """
