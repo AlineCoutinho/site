@@ -73,7 +73,7 @@ social:
 
 ---
 
-"""Welcome to my website! I am an economic sociologist, a research associate at the Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada.
+Welcome to my website! I am an economic sociologist, a research associate at the Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada.
 
 **Research**
 
@@ -81,16 +81,12 @@ My research lies at the intersection of economic sociology, organizational analy
 
 **Teaching**
 
-My teaching philosophy builds on an approach that links sociological theories and concepts to students’ lived experiences. I trust it is important to make sociological work 
-'feel concrete and relevant' to current social problems. I am a firm believer in the power of data and evidence-based arguments. As such, a portion of my lectures 
-and teaching materials is devoted to teach data interpretation and visualization. My courses include *Local and Global Economic Relations*, *Globalization: Sociological and 
-Anthropological Approaches*, *Sociology of Work and Organizations*, *Globalization and Environment*, *Economic Anthropology*, and *Contemporary Sociological Theory*.
+My teaching philosophy builds on an approach that links sociological theories and concepts to students’ lived experiences. I trust it is important to make sociological work 'feel concrete and relevant' to current social problems. I am a firm believer in the power of data and evidence-based arguments. As such, a portion of my lectures and teaching materials is devoted to teach data interpretation and visualization. My courses include *Local and Global Economic Relations*, *Globalization: Sociological and Anthropological Approaches*, *Sociology of Work and Organizations*, *Globalization and Environment*, *Economic Anthropology*, and *Contemporary Sociological Theory*.
 
 **Passions and hobbies**
 
 I am passionate about the statistical language programming R, open-source philosophy, and creating an inclusive and diverse knowledge community.
 
-Want to start a conversation with me? Ask me about my favourite hobbies and life interests: motorcycles, gardening, coding in R, universal literature, indie 
-movies, jazz, and dogs (especially whippets).
-"""
+Want to start a conversation with me? Ask me about my favourite hobbies and life interests: motorcycles, gardening, coding in R, universal literature, indie movies, jazz, and dogs (especially whippets).
+
 
