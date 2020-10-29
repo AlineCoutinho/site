@@ -15,7 +15,7 @@ role: Economic Sociologist. Researcher. Educator.
 # Organizations/Affiliations
 organizations:
 - name: "Smart Prosperity Institute"
-  url: "https://institute.smartprosperity.ca/node/3148"
+  url: "https://institute.smartprosperity.ca"
 
 # Short bio (displayed in user profile at end of posts)
 # Role/position
@@ -24,7 +24,7 @@ role: Economic Sociologist. Researcher. Educator.
 # Organizations/Affiliations
 organizations:
 - name: "Smart Prosperity Institute"
-  url: "https://institute.smartprosperity.ca/node/3148"
+  url: "https://institute.smartprosperity.ca"
   
 
 # Short bio (displayed in user profile at end of posts)
