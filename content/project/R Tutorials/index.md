@@ -25,3 +25,5 @@ Learning outcomes:
   {{% staticref "files/Setting-up.pdf" %}}Tutorial 1 - Installation{{% /staticref %}}
   
   {{% staticref "files/packagesR.pdf" %}}Tutorial 2 - Packages{{% /staticref %}}
+  
+  {{% staticref "files/Importing-data.pdf" %}}Tutorial 3 - Importing data{{% /staticref %}}
