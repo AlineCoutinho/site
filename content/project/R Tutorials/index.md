@@ -26,4 +26,4 @@ Learning outcomes:
   
   {{% staticref "files/packagesR.pdf" %}}Tutorial 2 - Packages{{% /staticref %}}
   
-  {{% staticref "files/Importing-data.pdf" %}}Tutorial 3 - Importing data{{% /staticref %}}
+  {{% staticref "files/Importing-Data.pdf" %}}Tutorial 3 - Importing Data{{% /staticref %}}
