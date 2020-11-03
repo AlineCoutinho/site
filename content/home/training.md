@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = "http://www.ipsa-usp.com/certificates/check/167dc94c161901686e03c4f92d"
   date_start = "2020-01-01"
   date_end = ""
-  description = "105 hours"
+  description = "105 hours - see certificate for the advanced level below"
 
 [[item]]
   organization = "IPSA-USP Summer School"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = "http://www.ipsa-usp.com/certificates/check/25bd111870a59ca916a12afc9b"
   date_start = "2019-01-01"
   date_end = ""
-  description = "105 hours"
+  description = "105 hours - see certificate for the advanced level below"
   
 [[item]]
   organization = "Université Saint-Paul"
