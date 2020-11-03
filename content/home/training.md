@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://coursera.org/share/1005043bd06d8d1901838697806aeecf"
   date_start = "2020-11-01"
   date_end = ""
-  description = ""
+  description = "1 hour"
   
 [[item]]
   organization = "IPSA-USP Summer School"
