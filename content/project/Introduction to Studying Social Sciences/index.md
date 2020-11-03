@@ -4,7 +4,9 @@ title: Introduction to Studying Social Sciences
 summary: Undergraduate course plan
 abstract: ""
 date: ""
-
+image:
+  caption: '["Morgan Library" by Rob Shenk is licensed under CC BY-SA 2.0](https://search.creativecommons.org/photos/e958677e-78f4-4a58-b425-1e68fc7afd74)'
+  focal_point: 'center'
 categories:
 - Higher-education
 tags:
