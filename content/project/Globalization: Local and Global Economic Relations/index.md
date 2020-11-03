@@ -4,7 +4,9 @@ title: Globalization - Sociological and Anthropological Aspects
 summary: Undergraduate course plan
 abstract: ""
 date: ""
-
+image:
+  caption: '["shipping containers" by photohome_uk is licensed under CC BY 2.0](https://search.creativecommons.org/photos/d7e0d4ef-8547-4c0d-96eb-7d6b0542cdb8)'
+  focal_point: 'center'
 categories:
 - Higher-education
 tags:
