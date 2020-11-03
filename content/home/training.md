@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://certificate.bcdiploma.com/check/9A5EA7D00FF456AD6801DF6251BD0838A852596C51ECC86E2530F783C08E232ARFJnVXZkM0FYcDk2MXZKb1VUMTV5MGc4cUZ1SWVBc0U0R3VSSVE3OW1kRVZ5a3M0"
   date_start = "2013-01-01"
-  date_end = "2015-01-01"
+  date_end = "2015-05-01"
   description = ""
   
 [[item]]
