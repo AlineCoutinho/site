@@ -4,7 +4,9 @@ title: Economic Anthropology
 summary: Undergraduate course plan
 abstract: ""
 date: ""
-
+image:
+  caption: '["Market in Kédougou, Sénégal (West Africa)" by gbaku is licensed under CC BY-SA 2.0](https://search.creativecommons.org/photos/1dc9c540-00b1-4642-baaa-b9fafe583b96)'
+  focal_point: 'center'
 categories:
 - Higher-education
 tags:
