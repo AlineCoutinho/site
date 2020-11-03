@@ -5,7 +5,7 @@ summary: Undergraduate course plan
 abstract: ""
 date: ""
 image:
-  caption: '["Morgan Library" by Rob Shenk is licensed under CC BY-SA 2.0](https://search.creativecommons.org/photos/e958677e-78f4-4a58-b425-1e68fc7afd74)'
+  caption: '["YDS Library" by Chris and Amy Stroup is licensed under CC BY-NC 2.0](https://search.creativecommons.org/photos/a14cd6cb-6d43-4465-9e9b-48a944f786d2)'
   focal_point: 'center'
 categories:
 - Higher-education
