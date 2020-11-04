@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera Project Network"
   organization_url = "https://www.coursera.org/"
+  title = "Build Data Analysis tools using R and DPLYR"
+  url = ""
+  certificate_url = "https://coursera.org/share/27535e97e80f649a4865e7f5a9cbe806"
+  date_start = "2020-11-01"
+  date_end = ""
+  description = "1.5 hours"
+
+[[item]]
+  organization = "Coursera Project Network"
+  organization_url = "https://www.coursera.org/"
   title = "Importing Data Into R"
   url = ""
   certificate_url = "https://coursera.org/share/1005043bd06d8d1901838697806aeecf"
