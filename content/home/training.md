@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "John Hopkins University - via Coursera"
+  organization = "Johns Hopkins University - Coursera MOOC"
   organization_url = "https://www.coursera.org/"
   title = "The Data Scientist’s Toolbox"
   url = ""
