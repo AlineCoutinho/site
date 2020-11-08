@@ -18,8 +18,10 @@ These tutorials were designed as supplementary materials for my courses in Socio
 Learning outcomes:
  - To be able to download R and RStudio in a desktop; 
  - To understand basic R syntax;
+ - To understand Version Control systems and link RStudio with GitHub;
  - To become familiar with the principles of tidy data;
  - To improve skills in data visualization and interpretation;
+ - To implement best practices of reproducibility;
  - To produce R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint) in the form of customizable reports. 
  
   {{% staticref "files/Setting-up.pdf" %}}Tutorial 1 - Installation{{% /staticref %}}
