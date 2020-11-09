@@ -18,7 +18,8 @@ These tutorials were designed as supplementary materials for my courses in Socio
 Learning outcomes:
  - To be able to download R and RStudio in a desktop; 
  - To understand basic R syntax;
- - To understand Version Control systems and link RStudio with GitHub;
+ - To understand Version Control systems;
+ - To be able to link RStudio with GitHub;
  - To become familiar with the principles of tidy data;
  - To improve skills in data visualization and interpretation;
  - To adopt best practices of reproducibility;
@@ -28,6 +29,6 @@ Learning outcomes:
   
   {{% staticref "files/packagesR.pdf" %}}Tutorial 2 - Packages{{% /staticref %}}
   
-  {{% staticref "files/GitHub-Essentials.pdf" %}}Tutorial 3 - A Gentle Introduction to GitHub{{% /staticref %}}
+  {{% staticref "files/GitHub-Essentials.pdf" %}}Tutorial 3 - Linking GitHub with RStudio{{% /staticref %}}
   
   {{% staticref "files/Importing-Data.pdf" %}}Tutorial 4 - Importing Data{{% /staticref %}}
