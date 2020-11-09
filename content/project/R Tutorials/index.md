@@ -21,7 +21,7 @@ Learning outcomes:
  - To understand Version Control systems and link RStudio with GitHub;
  - To become familiar with the principles of tidy data;
  - To improve skills in data visualization and interpretation;
- - To implement best practices of reproducibility;
+ - To adopt best practices of reproducibility;
  - To produce R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint) in the form of customizable reports. 
  
   {{% staticref "files/Setting-up.pdf" %}}Tutorial 1 - Installation{{% /staticref %}}
