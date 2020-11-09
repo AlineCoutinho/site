@@ -29,6 +29,6 @@ Learning outcomes:
   
   {{% staticref "files/packagesR.pdf" %}}Tutorial 2 - Packages{{% /staticref %}}
   
-  {{% staticref "files/GitHub-Essentials.pdf" %}}Tutorial 3 - Linking GitHub with RStudio{{% /staticref %}}
+  {{% staticref "files/GitHub-Essentials.pdf" %}}Tutorial 3 - Linking RStudio with GitHub{{% /staticref %}}
   
   {{% staticref "files/Importing-Data.pdf" %}}Tutorial 4 - Importing Data{{% /staticref %}}
