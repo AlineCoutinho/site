@@ -25,12 +25,17 @@ subtitle = ""
   name = "Policy Analysis" 
   
 [[feature]]
+  icon = "balance-scale"
+  icon_pack = "fas"
+  name = "GBA and EDI"
+  
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "Data Visualization"
 
 [[feature]]
-  icon = "file-powerpoint"
+  icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Lecturing and Training"
   
@@ -39,9 +44,4 @@ subtitle = ""
  icon_pack = "fas"
  name = "Knowledge Translation"
  
-[[feature]]
-  icon = "handshake"
-  icon_pack = "fas"
-  name = "Conciliation"
-
 +++
