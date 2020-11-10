@@ -40,7 +40,7 @@ subtitle = ""
   name = "Lecturing and Training"
   
 [[feature]]
- icon = "book-open"
+ icon = "comments"
  icon_pack = "fas"
  name = "Knowledge Translation"
  
