@@ -41,7 +41,7 @@ subtitle = ""
   
 [[feature]]
  icon = "comments"
- icon_pack = "fas"
+ icon_pack = "far"
  name = "Knowledge Translation"
  
 +++
