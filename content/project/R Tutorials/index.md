@@ -31,7 +31,7 @@ Learning outcomes:
   
   {{% staticref "files/GitHub-Essentials.pdf" %}}Tutorial 3 - Linking RStudio with GitHub{{% /staticref %}}
   
-  {{% staticref "files/Basic-syntax.pdf" %}}Tutorial 4 - R Basic Syntax{{% /staticref %}}
+  {{% staticref "files/Basic-syntax.pdf" %}}Tutorial 4 - Basic Syntax{{% /staticref %}}
   
   {{% staticref "files/Importing-Data.pdf" %}}Tutorial 5 - Importing Data{{% /staticref %}}
   
