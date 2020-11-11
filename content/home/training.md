@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Johns Hopkins University - Coursera"
   organization_url = "https://www.coursera.org/"
+  title = "A Crash Course in Data Science"
+  url = ""
+  certificate_url = "https://coursera.org/share/af6ef4c7e1f17505913258b62559468b"
+  date_start = "2020-11-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Johns Hopkins University - Coursera"
+  organization_url = "https://www.coursera.org/"
   title = "The Data Scientist’s Toolbox"
   url = ""
   certificate_url = "https://coursera.org/share/03d123f71175198d0d1b523df650ec56"
