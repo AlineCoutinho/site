@@ -13,7 +13,7 @@ tags:
 
 ---
 
-These tutorials were designed as supplementary materials for my courses in Sociology. They include information about R and RStudio installation, R packages, and introductory principles and procedures of data summarization, analysis and visualization. 
+These tutorials were designed as supplementary materials for my courses in Sociology. They include information about R and RStudio installation, R packages, and introductory principles and procedures of data summarization, analysis, and visualization. 
 
 Learning outcomes:
  - To be able to download R and RStudio in a desktop; 
@@ -31,4 +31,8 @@ Learning outcomes:
   
   {{% staticref "files/GitHub-Essentials.pdf" %}}Tutorial 3 - Linking RStudio with GitHub{{% /staticref %}}
   
-  {{% staticref "files/Importing-Data.pdf" %}}Tutorial 4 - Importing Data{{% /staticref %}}
+  {{% staticref "files/Basic-syntax.pdf" %}}Tutorial 4 - R Basic Syntax{{% /staticref %}}
+  
+  {{% staticref "files/Importing-Data.pdf" %}}Tutorial 5 - Importing Data{{% /staticref %}}
+  
+  {{% staticref "files/Data-Wrangling.pdf" %}}Tutorial 6 - Data Wrangling{{% /staticref %}}
