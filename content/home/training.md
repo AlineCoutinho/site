@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   certificate_url = "https://coursera.org/share/27535e97e80f649a4865e7f5a9cbe806"
   date_start = "2020-11-01"
   date_end = ""
-  description = "1.5 hours"
+  description = ""
 
 [[item]]
   organization = "Coursera Project Network"
@@ -76,7 +76,7 @@ date_format = "Jan 2006"
   certificate_url = "https://coursera.org/share/1005043bd06d8d1901838697806aeecf"
   date_start = "2020-11-01"
   date_end = ""
-  description = "1 hour"
+  description = ""
   
 [[item]]
   organization = "Johns Hopkins University - Coursera"
