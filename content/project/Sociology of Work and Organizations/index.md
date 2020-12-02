@@ -38,3 +38,4 @@ At the end of the course, students should be able to:
 In sum, students should be able to make sense of the workplace and organized labour in Canada, and assess information thereof provided by media, social scientists and other channels.
 
 
+{{% staticref "files/SOC3308 - Winter 2021.pdf" %}}Download latest syllabus here{{% /staticref %}}
