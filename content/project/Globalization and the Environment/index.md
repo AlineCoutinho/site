@@ -26,3 +26,5 @@ At the end of the course, students should be able to:
 2) Identify global social and power dynamics that impact the environment.
 3) Understand how environmental problems are of global concern.
 4) Think critically about the relationship between globalization and the environment in the anthropocene.
+
+{{% staticref "files/SOC 4310 - Winter 2021.pdf" %}}Download latest syllabus here{{% /staticref %}}
