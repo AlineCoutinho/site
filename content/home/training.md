@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera Project Networka"
+  organization = "Coursera Project Network"
   organization_url = "https://www.coursera.org/"
   title = "Intro to Time Series Analysis in R"
   url = ""
