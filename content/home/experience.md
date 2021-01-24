@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Identification of climate solutions
-  * Creation of health & climate frameworks for analysts and policy-makers
+  * Creation of health & clean air frameworks for analysts and policy-makers
   * Policy assessment
   * Knowledge translation
   * Advance EDI considerations in climate policy discussions
