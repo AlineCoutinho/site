@@ -29,9 +29,10 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Identification of climate solutions
-  * Creation of conceptual frameworks for analysts and policy-makers
+  * Creation of health & climate frameworks for analysts and policy-makers
   * Policy assessment
   * Knowledge translation
+  * Advance EDI considerations in climate policy discussions
     """
   
 [[experience]]
@@ -45,7 +46,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Course design and implementation
-  * Construction of teaching materials
+  * Creation of teaching materials
   * Training and evaluation of teaching assistants
   """
 
@@ -60,7 +61,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Knowledge translation of academic research about the underground economy
-  * Presentation to the Hon. Minister of National Revenue
+  * Presentation to the Minister of National Revenue
   """
   
   [[experience]]
