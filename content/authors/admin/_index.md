@@ -32,11 +32,11 @@ bio: My research interests include entrepreneurship development, organizational 
 
 interests:
 - Economic Sociology
-- Organizational Analysis
-- Climate Governance
-- Green Economy
 - Gender-Based Analysis (GBA)
 - Equality, Diversity, and Inclusion (EDI)
+- Clean Gowth and Green Economy
+- Climate Governance
+
 
 education:
   courses:
@@ -70,11 +70,15 @@ social:
 
 ---
 
-Welcome to my website! I am an economic sociologist, a research associate at the Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada.
+Welcome to my website! I am an economic sociologist, a researcher at the Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada. I design Equity, Diversity and Inclusion (EDI) solutions to facilitate Canada's transition to a decarbonized future.
 
 **Research**
 
-My research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. Currently, I conduct research on the benefits to human health associated low-carbon infrastructure projects, with a focus on identifying sustainable and inclusive solutions to decarbonize the economy, improve social and health outcomes, and increase economic performance. During my PhD, I investigated entrepreneurship building programs and the emergence of the economic category of ‘the entrepreneur’ in Brazil. I also have experience researching climate change governance in Canada and Australia, knowledge translation and mobilization, and political scandals. My work has been published in anglo and lusophone peer-reviewed journals.
+My research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. Currently, I conduct research on the equity, diversity, and inclusion dimensions/requirements necessary to achieve a just decarbonization transition, one that leads to clean *and* inclusive economic growth. I design solutions and tools for Canadian policymakers to set in motion a prosperous, sustainable, and equitable path towards a greener economy.
+
+Previously, at SPI, I researched the benefits to human health associated low-carbon infrastructure projects, with a focus on identifying sustainable solutions to decarbonize the economy, improve social and health outcomes, and increase economic performance. 
+
+During my PhD, I investigated entrepreneurship building programs and the emergence of the economic category of ‘the entrepreneur’ in Brazil. I also have experience researching climate change governance in Canada and Australia, knowledge translation and mobilization, and political scandals. My work has been published in anglo and lusophone peer-reviewed journals.
 
 **Teaching**
 
