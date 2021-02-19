@@ -72,11 +72,11 @@ social:
 
 Welcome to my website! Thank you for visiting.
 
-I am an economic sociologist, a researcher at the Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada. I design Equity, Diversity and Inclusion (EDI) solutions and tools to help Canadian policymakers identify best paths to transition to a decarbonized, sustainable, and more equitable future.
+I am an economic sociologist, a researcher at the Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada. I design equity, diversity and inclusion (EDI) solutions and tools to assist Canadian policymakers in identifying best paths to transition to a decarbonized, sustainable, and more equitable future.
 
 **Research**
 
-My research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. Currently, I conduct research on the equity, diversity, and inclusion dimensions/requirements necessary to achieve a just decarbonization transition, one that leads to clean *and* inclusive economic growth. I design solutions and tools for Canadian policymakers to set in motion a prosperous, sustainable, and equitable path towards a greener economy.
+My research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. Currently, I conduct research on the EDI dimensions/requirements necessary to achieve a just decarbonization transition, one that leads to clean *and* inclusive economic growth. I design solutions and tools for Canadian policymakers to set in motion a prosperous, sustainable, and equitable path towards a greener economy.
 
 Previously, at SPI, I researched the benefits to human health associated low-carbon infrastructure projects, with a focus on identifying sustainable solutions to decarbonize the economy, improve social and health outcomes, and increase economic performance. 
 
