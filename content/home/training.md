@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Government of Canada"
+  organization_url = "https://cfc-swc.gc.ca/gba-acs/course-cours/eng/mod00/mod00_01_01.html"
+  title = "Introduction to Gender-Based Analysis Plus (GBA+)"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-03-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Univesity of Alberta - Coursera"
   organization_url = "https://www.coursera.org/"
   title = "Indigenous Canada"
