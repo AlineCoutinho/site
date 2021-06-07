@@ -27,10 +27,6 @@ url = "https://on360.ca/policy-papers/made-in-ontario-a-provincial-manufacturing
 image = ""
 caption = ""
 
-icon: github
-  icon_pack: fab
-  name: materials
-  url: https://on360.ca/policy-papers/made-in-ontario-a-provincial-manufacturing-strategy/
 +++
 
 
