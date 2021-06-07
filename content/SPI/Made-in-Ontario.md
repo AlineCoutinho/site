@@ -13,7 +13,7 @@ selected = false
 title = "Made in Ontario: A Provincial Manufacturing Strategy"
 url_code = ""
 url_dataset = ""
-url_pdf = "{{% staticref "ON360.pdf" "newtab" %}}Download policy brief{{% /staticref %}}"
+url_pdf = ""
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -27,7 +27,7 @@ url = "https://on360.ca/policy-papers/made-in-ontario-a-provincial-manufacturing
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = "Made in Ontario, published by Ontario360"
+caption = ""
 
 +++
 
