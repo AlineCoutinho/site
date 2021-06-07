@@ -18,6 +18,8 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
+{{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+
 [[url_custom]]
 name = "View Policy Brief"
 url = "https://on360.ca/policy-papers/made-in-ontario-a-provincial-manufacturing-strategy/"
@@ -25,7 +27,7 @@ url = "https://on360.ca/policy-papers/made-in-ontario-a-provincial-manufacturing
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = ""
+caption = "Made in Ontario, published by Ontario360"
 
 +++
 
