@@ -17,6 +17,7 @@ url_pdf = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+external_link: "https://on360.ca/policy-papers/made-in-ontario-a-provincial-manufacturing-strategy/"
 
 [[url_custom]]
 name = "View Policy Brief"
