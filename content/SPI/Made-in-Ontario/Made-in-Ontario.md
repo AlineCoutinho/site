@@ -6,6 +6,6 @@ authors = ["Mike Moffatt", "Aline Coutinho", "John McNally"] date = "2021-06-01"
 [[url_custom]] name = "PDF" url = "https://on360.ca/policy-papers/made-in-ontario-a-provincial-manufacturing-strategy/"
 
 Optional featured image (relative to static/img/ folder).
-[header] image = "" caption = ""
+[header] image = "featured.png" caption = "Made in Ontario, published by Ontario360"
 
 +++
