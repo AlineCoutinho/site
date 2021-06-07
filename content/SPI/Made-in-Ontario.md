@@ -18,7 +18,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-{{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+{{% staticref "ON360.pdf" "newtab" %}}Download policy brief{{% /staticref %}}
 
 [[url_custom]]
 name = "View Policy Brief"
