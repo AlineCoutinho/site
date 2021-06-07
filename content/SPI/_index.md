@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Policy ideas
 
 # View.
 #   1 = List
