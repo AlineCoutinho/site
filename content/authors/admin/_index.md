@@ -72,7 +72,7 @@ social:
 
 Welcome to my website! Thank you for visiting.
 
-I am an economic sociologist, a postdocatoral fellow researcher at the Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada. I design equity, diversity and inclusion (EDI) solutions and tools to assist Canadian policymakers in identifying best paths to transition to a decarbonized, sustainable, and more equitable future.
+I am an economic sociologist, a postdoctoral fellow researcher at the Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada. I design equity, diversity and inclusion (EDI) solutions and tools to assist Canadian policymakers in identifying best paths to transition to a decarbonized, sustainable, and more equitable future.
 
 **Research**
 
