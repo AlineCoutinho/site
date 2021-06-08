@@ -1,5 +1,5 @@
 +++
-abstract = "Identifying measures that advance both climate and equity objectives is hard, but essential and achievable."
+abstract = "**Blog post** - Identifying measures that advance both climate and equity objectives is hard, but essential and achievable."
 
 authors = ["Aline Coutinho", "Harshini Ramesh", "John McNally", "Madeleine McGillivray", "Mohsina Atiq"]
 date = "2020-10-01"
