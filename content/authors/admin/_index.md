@@ -32,7 +32,7 @@ bio: My research interests include entrepreneurship development, organizational 
 
 interests:
 - Economic Sociology
-- Gender-Based Analysis (GBA)
+- Gender-Based Analysis (GBA+)
 - Equality, Diversity, and Inclusion (EDI)
 - Clean Gowth and Green Economy
 - Climate Governance
@@ -72,11 +72,11 @@ social:
 
 Welcome to my website! Thank you for visiting.
 
-I am an economic sociologist, a researcher at the Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada. I design equity, diversity and inclusion (EDI) solutions and tools to assist Canadian policymakers in identifying best paths to transition to a decarbonized, sustainable, and more equitable future.
+I am an economic sociologist, a postdocatoral fellow researcher at the Smart Prosperity Institute, and a sessional lecturer at the University of Ottawa, Canada. I design equity, diversity and inclusion (EDI) solutions and tools to assist Canadian policymakers in identifying best paths to transition to a decarbonized, sustainable, and more equitable future.
 
 **Research**
 
-My research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. Currently, I conduct research on the EDI dimensions/requirements necessary to achieve a just decarbonization transition, one that leads to clean *and* inclusive economic growth. I design solutions and tools for Canadian policymakers to set in motion a prosperous, sustainable, and equitable path towards a greener economy.
+My research lies at the intersection of economic sociology, organizational analysis, and inequality regimes. Currently, I conduct research on the EDI dimensions/requirements necessary to achieve a just decarbonization transition, one that leads to clean *and* inclusive economic growth. I design research, solutions, and tools for Canadian policymakers to set in motion a prosperous, sustainable, and equitable path towards a greener economy.
 
 Previously, at SPI, I researched the benefits to human health associated low-carbon infrastructure projects, with a focus on identifying sustainable solutions to decarbonize the economy, improve social and health outcomes, and increase economic performance. 
 
@@ -90,6 +90,6 @@ My teaching philosophy builds on an approach that links sociological theories an
 
 I am passionate about the statistical language programming R, open-source philosophy, and creating an inclusive and diverse knowledge community.
 
-Want to start a conversation with me? Ask me about my favourite hobbies and life interests: motorcycles, gardening, coding in R, universal literature, indie movies, jazz, and dogs (especially whippets).
+Want to start a conversation with me? Ask me about my favourite hobbies and life interests: motorcycles, gardening, coding in R, cross-stitching, universal literature, indie movies, jazz, and dogs (especially whippets).
 
 
