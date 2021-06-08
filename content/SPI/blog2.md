@@ -1,5 +1,5 @@
 +++
-abstract = ": Simplified air quality tools can help a wide range of Canadian stakeholders evaluate the health benefits of GHG-reducing projects."
+abstract = "Simplified air quality tools can help a wide range of Canadian stakeholders evaluate the health benefits of GHG-reducing projects."
 
 authors = ["Aline Coutinho", "John McNally"]
 date = "2021-02-01"
