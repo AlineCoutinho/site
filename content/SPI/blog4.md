@@ -1,5 +1,5 @@
 +++
-abstract = "We have come a long way in including gender considerations in climate policy - yet much work remains to be done."
+abstract = "**Blog post** - We have come a long way in including gender considerations in climate policy - yet much work remains to be done."
 
 authors = ["Aline Coutinho"]
 date = "2021-04-01"
