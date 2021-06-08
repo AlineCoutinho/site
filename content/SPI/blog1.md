@@ -2,7 +2,7 @@
 abstract = "Identifying measures that advance both climate and equity objectives is hard, but essential and achievable."
 
 authors = ["Aline Coutinho", "Harshini Ramesh", "John McNally", "Madeleine McGillivray", "Mohsina Atiq"]
-date = "202-10-01"
+date = "2020-10-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
