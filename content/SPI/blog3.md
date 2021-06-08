@@ -1,5 +1,5 @@
 +++
-abstract = "Ensuring gender equality in the environmental and clean technology sector will lead to a more equal transition to net-zero emissions."
+abstract = "**Blog post** - Ensuring gender equality in the environmental and clean technology sector will lead to a more equal transition to net-zero emissions."
 
 authors = ["Aline Coutinho", "Mohsina Atiq", "Madeleine McGillivray", "John McNally"]
 date = "2021-03-01"
