@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -19,12 +19,28 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Postdoctiral fellow"
+  company = "Smart Prosperity Institute"
+  company_url = ""
+  location = "Ottawa, Canada"
+  date_start = "2021-05-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Design and conduct policy-oriented research at the intersection of inequality and green economy research
+  * Establish organizational partnerships
+  * Liaison and outreach activities
+  * Advance EDI considerations in environmental policy discussions
+    """
+
+[[experience]]
   title = "Research Associate"
   company = "Smart Prosperity Institute"
   company_url = ""
   location = "Ottawa, Canada"
   date_start = "2020-10-01"
-  date_end = ""
+  date_end = "2021-04-01"
   description = """
   Responsibilities include:
   
@@ -32,7 +48,6 @@ date_format = "Jan 2006"
   * Creation of health & clean air frameworks for analysts and policy-makers
   * Policy assessment
   * Knowledge translation
-  * Advance EDI considerations in climate policy discussions
     """
   
 [[experience]]
@@ -41,7 +56,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Ottawa, Canada"
   date_start = "2013-01-01"
-  date_end = ""
+  date_end = "2021-04-01"
   description = """
   Responsibilities include:
   
