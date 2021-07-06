@@ -17,7 +17,6 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-links:
 name = "Link" 
 url = "https://institute.smartprosperity.ca/GreenInclusiveRecoveryPlans"
 
