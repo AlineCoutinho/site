@@ -17,12 +17,13 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-name = "Link" 
-url = "https://institute.smartprosperity.ca/GreenInclusiveRecoveryPlans"
+[Link]
+  name = "Link" 
+  url = "https://institute.smartprosperity.ca/GreenInclusiveRecoveryPlans"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+ image = ""
 caption = ""
 
 +++
